@@ -1,0 +1,82 @@
+body{
+	margin: auto;
+	font-family: 'Roboto', sans-serif;
+	
+}
+.portfolio{
+	width: 1200px;
+	margin: 120px auto;
+	padding: 60px;
+	border-radius: 30px;
+	box-shadow: 0 0 20px 0px #00000036;
+	text-align: center;
+}
+iframe{
+	margin: auto;
+	display: block;
+	border-radius: 30px;
+}
+h1{
+	margin: 0;
+	font-size: 50px;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	font-weight: 900;
+	color: #35fdff;
+}
+
+p{
+
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 1.4;
+}
+.color1{
+	color:red;
+}
+.color2{
+	color:green;
+	
+}
+	mark{
+		background-color: black;
+		color:#fff;
+		padding: 5px 20px
+		display:inline-block;
+		border-radius: 20px;
+
+
+	}
+h2{
+	margin: 0;
+	font size: 130px;
+
+}
+
+.section01{
+
+background-color: seagreen;
+text-align: center;
+padding: 100px;
+background-image: url(https://images.unsplash.com/photo-1675365723622-4f502982f089?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80);
+background-position: bottom;
+background-attachment: fixed;
+background-size: cover;
+font-size: 130px;
+
+}
+
+h3{
+	margin: 0;
+	
+}
+.section02{
+
+background-color: seagreen;
+text-align: center;
+padding: 100px;
+background-image: url(https://st.depositphotos.com/2228340/2372/i/600/depositphotos_23720661-stock-photo-party-background.jpg);
+background-size: cover;
+font-size: 130px;
+
+}

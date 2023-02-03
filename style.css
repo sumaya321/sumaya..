@@ -1,0 +1,34 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+}
+div{
+	width: 1200px;
+	margin: 120px auto;
+	padding: 60px;
+	border-radius: 30px;
+	box-shadow: 0 0 20px 0px #00000036;
+}
+iframe{
+	margin: auto;
+}
+h1{
+	margin: 0;
+	font-size: 50px;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	font-weight: 900;
+	color: #35fdff;
+}
+
+p{
+
+	font-size: 2px;
+	font-weight: 300;
+	line-height: 1.4;
+}
+.color1{
+	color:red;
+}
+.color2{
+	color:green;
